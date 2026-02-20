@@ -3,7 +3,7 @@
 ![Blender](https://img.shields.io/badge/Blender-3D-orange)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-CAD-red)
 ![Siemens TIA Portal](https://img.shields.io/badge/Siemens-TIA%20Portal-green)
-# 👋 Hey, I'm Rayam
+# 👋 Hey, I'm Rayan
 
 🚀 Creative Technologist | Game Developer | 3D Artist  
 
